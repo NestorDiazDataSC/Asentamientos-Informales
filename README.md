@@ -8,3 +8,7 @@ Abajo en las siguientes imagenes se puede ver un mockup de como seria el trabajo
 ![01](https://user-images.githubusercontent.com/94582879/155845146-3b5d20b0-d659-438b-bea4-313f415970dc.jpg)
 ![02](https://user-images.githubusercontent.com/94582879/155845147-071687a7-81fa-43ac-bd33-782db3fdc1e7.jpg)
 ![03](https://user-images.githubusercontent.com/94582879/155845148-4653f5e1-0b46-41e1-b3a6-b0f3ae9bbfd9.jpg)
+
+# Créditos y autor
+Autor del trabajo Diaz Nestor
+https://www.linkedin.com/in/contadornestordiaz/
