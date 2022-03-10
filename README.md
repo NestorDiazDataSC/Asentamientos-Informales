@@ -12,5 +12,4 @@ En las siguientes imagenes se puede observar un mockup de adelanto de como seria
 ![03](https://user-images.githubusercontent.com/94582879/155845148-4653f5e1-0b46-41e1-b3a6-b0f3ae9bbfd9.jpg)
 
 # Créditos y autor
-Autor del trabajo Diaz Nestor
-https://www.linkedin.com/in/contadornestordiaz/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nestor_Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/contadornestordiaz/)
