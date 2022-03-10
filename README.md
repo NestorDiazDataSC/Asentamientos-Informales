@@ -5,7 +5,7 @@ Utilizando un relevamiento realizado por la organización TECHO cuya base de dat
 
 Por un lado se tomo la base de datos y se aplico todos los procesos de Data Wrangling con Python para obtener una base mas limpia y asi desarrollar una predicción buscando una respuesta determinada. Por otro lado se tomo la misma base inicial y se hizo transformación de datos con Power BI y con ello se generó un Dashboard para mostrar la información que puede ser de utilidad para entender los datos.
 
-En las siguientes imagenes se puede observar un mockup de adelanto de como seria el trabajo final, el cual durante su desarrollo puede llegar a tener algunos cambios.
+En las siguientes imagenes se puede observar un mockup de adelanto de como seria el trabajo final, el cual durante su desarrollo puede llegar a tener algunos cambios. El diseño final se puede observar en el archivo PBIX.
 
 ![01](https://user-images.githubusercontent.com/94582879/155845146-3b5d20b0-d659-438b-bea4-313f415970dc.jpg)
 ![02](https://user-images.githubusercontent.com/94582879/155845147-071687a7-81fa-43ac-bd33-782db3fdc1e7.jpg)
