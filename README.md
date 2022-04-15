@@ -1,5 +1,5 @@
 # Informe sobre Asentamientos Informales en Argentina
-## Relevamientos de asentamientos informales año 2016
+## Relevamientos de asentamientos informales año 2016 realizado con Power BI y con Python
 
 Utilizando un relevamiento realizado por la organización TECHO cuya base de datos contiene información sobre villas y asentamientos de Buenos Aires, Ciudad de Buenos Aires, Córdoba, Santa Fe, Salta, Tucumán, Corrientes, Chaco, Neuquén, Río Negro y Misiones. Detalla la cantidad de familias, el acceso a servicios básicos y la participación comunitaria, entre otros. El presente es un trabajo de practica para exponer los conocimientos en el analisis de los datos utilizando Python para analizar la base de datos y el uso de la plataforma Power BI para analizar tambien y crear un Dashboard para presentar la información.
 
